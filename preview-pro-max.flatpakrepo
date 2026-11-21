@@ -1,0 +1,5 @@
+[Flatpak Repo]
+Title=Preview Pro Max
+Url=https://raw.githubusercontent.com/monoterne/preview-pro-max-flatpak/main/repo/
+GPGKey=mDMEawG3BhYJKwYBBAHaRw8BAQdARgwrnJ7kCCo3SHMhQK0yvuMTxVDQRzU+wpfYsULDKeS0H1ByZXZpZXcgUHJvIE1heCBGbGF0cGFrIFJlbGVhc2WIkwQTFgoAOxYhBJ1V6uP7Ej4g+TDaWj79NvSkhmYCBQJrAbcGAhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJED79NvSkhmYCCXkBAP3KxDKhdSJROabwpgaj+nnfbDpM0+eoGHyvRCpkf7lRAP9NUjGEdQd7/5tGwYClIPJv8TZpLut+pEI2Q/WIsA1NBA==
+DefaultBranch=stable
